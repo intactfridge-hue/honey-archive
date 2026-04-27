@@ -1,0 +1,12 @@
+@"
+__pycache__/
+*.pyc
+fix_franchises.py
+retag_missing.py
+check_series.py
+fix_junko.py
+check_junko.py
+fix_volumes.py
+test_junko.py
+junko_cover_test.jpg
+"@ | Out-File -Encoding utf8 .gitignore
