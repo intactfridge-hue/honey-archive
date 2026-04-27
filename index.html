@@ -111,7 +111,7 @@
   .card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(232,84,122,.15); border-color: var(--pink-mid); }
   .card-cover { width: 100%; aspect-ratio: 3/4; position: relative; background: var(--pink-light); }
   .card-cover img { width: 100%; height: 100%; object-fit: cover; display: block; transition: filter .3s; }
-  .card.blurred .card-cover img { filter: blur(20px) brightness(.65) saturate(.5); }
+  /* blur removed — all content shown by default */
   .nsfw-badge { position: absolute; top: 8px; right: 8px; background: var(--pink-deep); color: white; font-size: .58rem; font-weight: 700; letter-spacing: .04em; padding: 3px 7px; border-radius: 99px; pointer-events: none; }
   .vol-badge { position: absolute; top: 8px; left: 8px; background: rgba(26,16,24,.75); color: white; font-size: .65rem; font-weight: 700; padding: 3px 8px; border-radius: 99px; pointer-events: none; }
   .cover-placeholder { width: 100%; aspect-ratio: 3/4; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, var(--pink-light), var(--honey-light)); font-size: 2.5rem; }
@@ -181,7 +181,20 @@
   ::-webkit-scrollbar { width: 6px; }
   ::-webkit-scrollbar-thumb { background: var(--pink-light); border-radius: 3px; }
 
-  @media (max-width: 700px) { aside { display: none; } .grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); } }
+  /* Mobile hamburger + drawer */
+  .hamburger { display: none; width: 38px; height: 38px; border: 1.5px solid var(--pink-light); border-radius: 8px; background: var(--white); cursor: pointer; flex-direction: column; align-items: center; justify-content: center; gap: 5px; flex-shrink: 0; }
+  .hamburger span { display: block; width: 18px; height: 2px; background: var(--pink-deep); border-radius: 2px; transition: all .2s; }
+  .drawer-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.4); z-index: 200; }
+  .drawer-overlay.open { display: block; }
+  .drawer { position: fixed; left: 0; top: 0; bottom: 0; width: 280px; background: var(--white); z-index: 201; transform: translateX(-100%); transition: transform .25s ease; overflow-y: auto; padding: 20px 16px; border-right: 2px solid var(--pink-light); }
+  .drawer.open { transform: translateX(0); }
+  .drawer-close { float: right; background: none; border: none; font-size: 1.2rem; color: var(--gray-light); cursor: pointer; margin-bottom: 8px; }
+
+  /* Sumi toast */
+  .sumi-toast { position: fixed; bottom: 32px; left: 50%; transform: translateX(-50%) translateY(20px); background: rgba(232,84,122,.92); color: white; font-family: 'Playfair Display', serif; font-size: 1rem; padding: 12px 28px; border-radius: 99px; z-index: 9999; opacity: 0; pointer-events: none; transition: opacity .5s, transform .5s; white-space: nowrap; box-shadow: 0 4px 20px rgba(232,84,122,.3); }
+  .sumi-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  @media (max-width: 700px) { aside { display: none; } .hamburger { display: flex; } .grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); } }
 </style>
 </head>
 <body>
@@ -199,12 +212,45 @@
   </div>
   <div class="header-controls">
     <button class="toggle-btn" id="dark-toggle" onclick="toggleDark()">🌙 Dark</button>
-    <button class="toggle-btn active" id="nsfw-toggle" onclick="toggleNSFW()">🙈 <span id="nsfw-label">Blur 18+</span></button>
     <span class="count-badge" id="total-badge">0</span>
+    <button class="hamburger" id="hamburger-btn" onclick="openDrawer()" aria-label="Filters">
+      <span></span><span></span><span></span>
+    </button>
   </div>
 </header>
 
-<div class="layout">
+<!-- Mobile drawer overlay -->
+<div class="drawer-overlay" id="drawer-overlay" onclick="closeDrawer()"></div>
+<div class="drawer" id="drawer">
+  <button class="drawer-close" onclick="closeDrawer()">✕</button>
+  <div style="clear:both;margin-bottom:12px;font-family:'Playfair Display',serif;font-size:1rem;font-weight:700;color:var(--pink-deep)">🍯 Filters</div>
+  <div class="sidebar-section" id="dsec-franchise">
+    <div class="sidebar-label" onclick="toggleSection('dsec-franchise')">🎮 Franchise <span class="collapse-arrow">▾</span></div>
+    <div class="sidebar-pills" id="d-franchise-filters"></div>
+  </div>
+  <div class="sidebar-section" id="dsec-char">
+    <div class="sidebar-label" onclick="toggleSection('dsec-char')">👤 Character <span class="collapse-arrow">▾</span></div>
+    <div class="sidebar-pills" id="d-char-filters"></div>
+  </div>
+  <div class="sidebar-section" id="dsec-acts">
+    <div class="sidebar-label" onclick="toggleSection('dsec-acts')">✨ Acts <span class="collapse-arrow">▾</span></div>
+    <div class="sidebar-pills" id="d-genre-filters"></div>
+  </div>
+  <div class="sidebar-section" id="dsec-outfit">
+    <div class="sidebar-label" onclick="toggleSection('dsec-outfit')">🏷 Outfit <span class="collapse-arrow">▾</span></div>
+    <div class="sidebar-pills" id="d-theme-filters"></div>
+  </div>
+  <div class="sidebar-section" id="dsec-setting">
+    <div class="sidebar-label" onclick="toggleSection('dsec-setting')">🌍 Setting <span class="collapse-arrow">▾</span></div>
+    <div class="sidebar-pills" id="d-setting-filters"></div>
+  </div>
+  <button class="clear-btn" onclick="clearFilters()">✕ Clear all filters</button>
+</div>
+
+<!-- Sumi toast -->
+<div class="sumi-toast" id="sumi-toast">Hi sumi ❤️</div>
+
+
   <aside>
     <div class="sidebar-section" id="sec-franchise">
       <div class="sidebar-label" onclick="toggleSection('sec-franchise')">🎮 Franchise <span class="collapse-arrow">▾</span></div>
@@ -272,7 +318,7 @@ pdfjsLib.GlobalWorkerOptions.workerSrc =
 let allEntries   = [];
 let seriesMap    = {};   // series_id → sorted entries
 let activeFilters = { franchises: new Set(), characters: new Set(), acts: new Set(), outfits: new Set(), setting: new Set() };
-let blurNSFW     = true;
+let blurNSFW     = false;
 let currentView  = 'grid';
 let pdfDoc       = null;
 let currentPage  = 1;
@@ -301,11 +347,23 @@ async function init() {
     buildFilters();
     render();
     document.getElementById('loading').classList.add('hidden');
+    // Show sumi toast once per session
+    if (!sessionStorage.getItem('sumi-seen')) {
+      sessionStorage.setItem('sumi-seen', '1');
+      setTimeout(() => {
+        const t = document.getElementById('sumi-toast');
+        t.classList.add('show');
+        setTimeout(() => t.classList.remove('show'), 3000);
+      }, 800);
+    }
   } catch (e) {
     document.getElementById('loading').innerHTML =
       '<div class="loading-bee">🐝</div><div class="loading-text" style="color:#e8547a">Could not load index.json</div>';
   }
 }
+
+function openDrawer()  { document.getElementById('drawer').classList.add('open'); document.getElementById('drawer-overlay').classList.add('open'); }
+function closeDrawer() { document.getElementById('drawer').classList.remove('open'); document.getElementById('drawer-overlay').classList.remove('open'); }
 
 function buildSeriesMap() {
   seriesMap = {};
@@ -332,6 +390,12 @@ function buildFilters() {
   buildPills('genre-filters',     counts.act,       'act');
   buildPills('theme-filters',     counts.outfit,    'outfit');
   buildPills('setting-filters',   counts.setting,   'setting');
+  // duplicate into drawer
+  buildPills('d-franchise-filters', counts.franchise, 'franchise');
+  buildPills('d-char-filters',      counts.character, 'character');
+  buildPills('d-genre-filters',     counts.act,       'act');
+  buildPills('d-theme-filters',     counts.outfit,    'outfit');
+  buildPills('d-setting-filters',   counts.setting,   'setting');
 }
 
 function buildPills(containerId, countObj, type) {
@@ -514,12 +578,7 @@ function quickFilter(key, name, el) {
 }
 
 // ── NSFW / View ────────────────────────────────────────────────────────────
-function toggleNSFW() {
-  blurNSFW = !blurNSFW;
-  document.getElementById('nsfw-toggle').classList.toggle('active', blurNSFW);
-  document.getElementById('nsfw-label').textContent = blurNSFW ? 'Blur 18+' : 'Show 18+';
-  document.querySelectorAll('.card').forEach(c => c.classList.toggle('blurred', blurNSFW));
-}
+// NSFW blur removed — content shown by default
 
 function setView(v) {
   currentView = v;
@@ -541,8 +600,9 @@ async function openReader(entry) {
   buildSeriesStrip(entry);
 
   pdfDoc = await pdfjsLib.getDocument(entry.file_url).promise;
-  if (readerMode === 'page') renderPage(currentPage);
-  else renderScrollMode();
+  // Default to scroll mode — more reliable cross-origin
+  if (readerMode === 'scroll') renderScrollMode();
+  else renderPage(currentPage);
 }
 
 function buildSeriesStrip(entry) {
@@ -581,15 +641,25 @@ async function renderPage(num) {
 
   const page     = await pdfDoc.getPage(num);
   const body     = document.getElementById('reader-body');
-  const vp1      = page.getViewport({scale:1});
-  const scale    = Math.min((body.clientWidth-32)/vp1.width, (body.clientHeight-16)/vp1.height);
+  const vp1      = page.getViewport({scale: 1});
+  const scaleW   = (body.clientWidth  - 32) / vp1.width;
+  const scaleH   = (body.clientHeight - 32) / vp1.height;
+  const scale    = Math.min(scaleW, scaleH, 3);
   const viewport = page.getViewport({scale});
 
   let canvas = document.getElementById('pdf-canvas');
-  if (!canvas) { canvas = document.createElement('canvas'); canvas.id='pdf-canvas'; body.innerHTML=''; body.appendChild(canvas); }
+  if (!canvas) {
+    canvas = document.createElement('canvas');
+    canvas.id = 'pdf-canvas';
+    body.innerHTML = '';
+    body.appendChild(canvas);
+  }
   canvas.width  = viewport.width;
   canvas.height = viewport.height;
-  if (renderTask) renderTask.cancel().catch(()=>{});
+  canvas.style.maxWidth  = '100%';
+  canvas.style.maxHeight = '100%';
+
+  if (renderTask) { try { renderTask.cancel(); } catch(e) {} }
   renderTask = page.render({canvasContext: canvas.getContext('2d'), viewport});
   try { await renderTask.promise; } catch(e) {}
 }
