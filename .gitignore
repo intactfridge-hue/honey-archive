@@ -10,3 +10,5 @@ fix_volumes.py
 test_junko.py
 junko_cover_test.jpg
 "@ | Out-File -Encoding utf8 .gitignore
+manga/
+covers/
