@@ -540,7 +540,7 @@ async function openReader(entry) {
 
   buildSeriesStrip(entry);
 
-  pdfDoc = await pdfjsLib.getDocument(`manga/${entry.file}`).promise;
+  pdfDoc = await pdfjsLib.getDocument(entry.file_url).promise;
   if (readerMode === 'page') renderPage(currentPage);
   else renderScrollMode();
 }

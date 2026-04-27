@@ -1,7 +1,7 @@
 [
   {
     "file": "Archers Desire (FateStay Night) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/archers_desire_fatestay_night_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/archers_desire_fatestay_night_kinkymation_pdf_room.jpg",
     "base_title": "Archers Desire",
     "franchise": "FateStay Night",
     "artist": "Kinkymation",
@@ -30,11 +30,12 @@
       "fantasy",
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Archers Desire (FateStay Night) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - A Great Fairys Reward (Hyrule Warriors) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_a_great_fairys_reward_hyrule_warriors_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_a_great_fairys_reward_hyrule_warriors_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - A Great Fairys Reward",
     "franchise": "Hyrule Warriors",
     "artist": "Kinkymation",
@@ -62,13 +63,14 @@
     "setting": [
       "fantasy",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - A Great Fairys Reward (Hyrule Warriors) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - A Nurses Joy (Pokemon) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_a_nurses_joy_pokemon_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_a_nurses_joy_pokemon_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - A Nurses Joy",
-    "franchise": "Pokémon",
+    "franchise": "PokÃ©mon",
     "artist": "Kinkymation",
     "volume": null,
     "volume_subtitle": null,
@@ -94,11 +96,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - A Nurses Joy (Pokemon) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Adeptal Discussions (Genshin Impact) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_adeptal_discussions_genshin_impact_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_adeptal_discussions_genshin_impact_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Adeptal Discussions",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -126,11 +129,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Adeptal Discussions (Genshin Impact) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Adventure Guild CG set - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_adventure_guild_cg_set_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_adventure_guild_cg_set_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Adventure Guild CG set",
     "franchise": null,
     "artist": "Kinkymation",
@@ -155,11 +159,12 @@
       "fantasy",
       "outdoors",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Adventure Guild CG set - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Chevreuse (Genshin Impact) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_chevreuse_genshin_impact_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_chevreuse_genshin_impact_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Chevreuse",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -184,11 +189,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Chevreuse (Genshin Impact) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Cloud Communication (Final Fantasy VII) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_cloud_communication_final_fantasy_vii_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_cloud_communication_final_fantasy_vii_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Cloud Communication",
     "franchise": "Final Fantasy",
     "artist": "Kinkymation",
@@ -215,11 +221,12 @@
     "setting": [
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Cloud Communication (Final Fantasy VII) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Draconic Needs (The Legend of Zelda) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_draconic_needs_the_legend_of_zelda_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_draconic_needs_the_legend_of_zelda_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Draconic Needs",
     "franchise": "The Legend of Zelda",
     "artist": "Kinkymation",
@@ -245,11 +252,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Draconic Needs (The Legend of Zelda) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Edelgard and Byleth - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_edelgard_and_byleth_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_edelgard_and_byleth_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Edelgard and Byleth",
     "franchise": "Fire Emblem",
     "artist": "Kinkymation",
@@ -277,11 +285,12 @@
       "fantasy",
       "bedroom",
       "dungeon"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Edelgard and Byleth - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Goblin Slayer Card Set - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_goblin_slayer_card_set_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_goblin_slayer_card_set_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Goblin Slayer Card Set",
     "franchise": "Goblin Slayer",
     "artist": "Kinkymation",
@@ -313,11 +322,12 @@
       "bedroom",
       "outdoors",
       "office"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Goblin Slayer Card Set - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Hildas Scolding (Fire Emblem) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_hildas_scolding_fire_emblem_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_hildas_scolding_fire_emblem_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Hildas Scolding",
     "franchise": "Fire Emblem",
     "artist": "Kinkymation",
@@ -344,11 +354,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Hildas Scolding (Fire Emblem) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Kafka Frenzy (Honkai Star Rail) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_kafka_frenzy_honkai_star_rail_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_kafka_frenzy_honkai_star_rail_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Kafka Frenzy",
     "franchise": "Honkai Star Rail",
     "artist": "Kinkymation",
@@ -374,13 +385,14 @@
     ],
     "setting": [
       "sci_fi"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Kafka Frenzy (Honkai Star Rail) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Legendary Threeway (Pokemon) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_legendary_threeway_pokemon_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_legendary_threeway_pokemon_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Legendary Threeway",
-    "franchise": "Pokémon",
+    "franchise": "PokÃ©mon",
     "artist": "Kinkymation",
     "volume": null,
     "volume_subtitle": null,
@@ -405,11 +417,12 @@
     "setting": [
       "fantasy",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Legendary Threeway (Pokemon) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Magician Tease (Genshin Impact) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_magician_tease_genshin_impact_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_magician_tease_genshin_impact_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Magician Tease",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -437,11 +450,12 @@
     "setting": [
       "bedroom",
       "fantasy"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Magician Tease (Genshin Impact) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Milf Takamaki (Persona 5) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_milf_takamaki_persona_5_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_milf_takamaki_persona_5_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Milf Takamaki",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -465,11 +479,12 @@
     ],
     "setting": [
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Milf Takamaki (Persona 5) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Milftaba Games (Persona 5) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_milftaba_games_persona_5_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_milftaba_games_persona_5_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Milftaba Games",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -495,11 +510,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Milftaba Games (Persona 5) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Milfy Haru (Persona 5) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_milfy_haru_persona_5_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_milfy_haru_persona_5_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Milfy Haru",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -526,11 +542,12 @@
     "setting": [
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Milfy Haru (Persona 5) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Mitsuri Love (Demon Slayer) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_mitsuri_love_demon_slayer_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_mitsuri_love_demon_slayer_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Mitsuri Love",
     "franchise": "Demon Slayer",
     "artist": "Kinkymation",
@@ -559,11 +576,12 @@
       "bedroom",
       "home",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Mitsuri Love (Demon Slayer) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Mommy Keqing (Genshin Impact) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_mommy_keqing_genshin_impact_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_mommy_keqing_genshin_impact_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Mommy Keqing",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -591,11 +609,12 @@
     "setting": [
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Mommy Keqing (Genshin Impact) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Mommy Narmaya (Granblue Fantasy) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_mommy_narmaya_granblue_fantasy_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_mommy_narmaya_granblue_fantasy_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Mommy Narmaya",
     "franchise": "Granblue Fantasy",
     "artist": "Kinkymation",
@@ -622,11 +641,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Mommy Narmaya (Granblue Fantasy) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Niijima Mommy (Persona 5) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_niijima_mommy_persona_5_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_niijima_mommy_persona_5_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Niijima Mommy",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -653,11 +673,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Niijima Mommy (Persona 5) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Panty and Stocking Card Set - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_panty_and_stocking_card_set_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_panty_and_stocking_card_set_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Panty and Stocking Card Set",
     "franchise": "Panty & Stocking with Garterbelt",
     "artist": "Kinkymation",
@@ -680,11 +701,12 @@
     ],
     "setting": [
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Panty and Stocking Card Set - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Phantom Filth - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_phantom_filth_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_phantom_filth_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Phantom Filth",
     "franchise": null,
     "artist": "Kinkymation",
@@ -705,11 +727,12 @@
     ],
     "setting": [
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Phantom Filth - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Reference Sheets - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_reference_sheets_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_reference_sheets_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Reference Sheets",
     "franchise": null,
     "artist": "Kinkymation",
@@ -744,11 +767,12 @@
       "fantasy",
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Reference Sheets - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - SuperMario Card Set - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_supermario_card_set_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_supermario_card_set_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - SuperMario Card Set",
     "franchise": null,
     "artist": "Kinkymation",
@@ -776,11 +800,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - SuperMario Card Set - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - The Dukes Punishment (Genshin Impact) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_the_dukes_punishment_genshin_impact_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_the_dukes_punishment_genshin_impact_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - The Dukes Punishment",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -811,11 +836,12 @@
       "fantasy",
       "bedroom",
       "office"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - The Dukes Punishment (Genshin Impact) - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Valentines 2020 - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_valentines_2020_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_valentines_2020_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Valentines 2020",
     "franchise": "Fire Emblem",
     "artist": "Kinkymation",
@@ -851,11 +877,12 @@
     "setting": [
       "fantasy",
       "outdoors"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Valentines 2020 - PDF Room.pdf"
   },
   {
     "file": "Artworks and Misc Image Sets [Kinkymation] - Velvet Room Welcome (Persona 3) - PDF Room.pdf",
-    "cover": "covers/artworks_and_misc_image_sets_kinkymation_velvet_room_welcome_persona_3_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/artworks_and_misc_image_sets_kinkymation_velvet_room_welcome_persona_3_pdf_room.jpg",
     "base_title": "Artworks and Misc Image Sets - Velvet Room Welcome",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -886,13 +913,14 @@
     "setting": [
       "supernatural",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Artworks and Misc Image Sets [Kinkymation] - Velvet Room Welcome (Persona 3) - PDF Room.pdf"
   },
   {
     "file": "Battle Mania (Pokemon) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/battle_mania_pokemon_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/battle_mania_pokemon_kinkymation_pdf_room.jpg",
     "base_title": "Battle Mania",
-    "franchise": "Pokémon",
+    "franchise": "PokÃ©mon",
     "artist": "Kinkymation",
     "volume": null,
     "volume_subtitle": null,
@@ -916,11 +944,12 @@
     "setting": [
       "outdoors",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Battle Mania (Pokemon) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Birthday Maid [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/birthday_maid_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/birthday_maid_kinkymation_pdf_room.jpg",
     "base_title": "Birthday Maid",
     "franchise": "Fire Emblem",
     "artist": "Kinkymation",
@@ -948,11 +977,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Birthday Maid [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Both is Good (Fire Emblem) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/both_is_good_fire_emblem_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/both_is_good_fire_emblem_kinkymation_pdf_room.jpg",
     "base_title": "Both is Good",
     "franchise": "Fire Emblem",
     "artist": "Kinkymation",
@@ -982,11 +1012,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Both is Good (Fire Emblem) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Candys Workout [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/candys_workout_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/candys_workout_kinkymation_pdf_room.jpg",
     "base_title": "Candys Workout",
     "franchise": null,
     "artist": "Kinkymation",
@@ -1011,11 +1042,12 @@
     ],
     "setting": [
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Candys Workout [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Cat & Spider (Spider-Man) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/cat_spider_spider_man_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/cat_spider_spider_man_kinkymation_pdf_room.jpg",
     "base_title": "Cat & Spider",
     "franchise": "Spider-Man",
     "artist": "Kinkymation",
@@ -1043,11 +1075,12 @@
     "setting": [
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Cat & Spider (Spider-Man) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Comic Commission [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/comic_commission_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/comic_commission_kinkymation_pdf_room.jpg",
     "base_title": "Comic Commission",
     "franchise": null,
     "artist": "Kinkymation",
@@ -1071,11 +1104,12 @@
     "setting": [
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Comic Commission [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Courting Fear (Fire Emblem Three Houses) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/courting_fear_fire_emblem_three_houses_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/courting_fear_fire_emblem_three_houses_kinkymation_pdf_room.jpg",
     "base_title": "Courting Fear",
     "franchise": "Fire Emblem",
     "artist": "Kinkymation",
@@ -1104,11 +1138,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Courting Fear (Fire Emblem Three Houses) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Different Normal (Fire Emblem) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/different_normal_fire_emblem_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/different_normal_fire_emblem_kinkymation_pdf_room.jpg",
     "base_title": "Different Normal",
     "franchise": "Fire Emblem",
     "artist": "Kinkymation",
@@ -1138,11 +1173,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Different Normal (Fire Emblem) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Dinner Party (Final Fantasy) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/dinner_party_final_fantasy_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/dinner_party_final_fantasy_kinkymation_pdf_room.jpg",
     "base_title": "Dinner Party",
     "franchise": "Final Fantasy",
     "artist": "Kinkymation",
@@ -1169,11 +1205,12 @@
     "setting": [
       "fantasy",
       "dungeon"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Dinner Party (Final Fantasy) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Elemental Desire (Genshin Impact) [Kinkymation] - 1 Elemental Desire - Flourishing Fervor - PDF Room.pdf",
-    "cover": "covers/elemental_desire_genshin_impact_kinkymation_1_elemental_desire_flourishing_fervor_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/elemental_desire_genshin_impact_kinkymation_1_elemental_desire_flourishing_fervor_pdf_room.jpg",
     "base_title": "Elemental Desire (Genshin Impact)",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -1202,11 +1239,12 @@
       "fantasy",
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Elemental Desire (Genshin Impact) [Kinkymation] - 1 Elemental Desire - Flourishing Fervor - PDF Room.pdf"
   },
   {
     "file": "Elemental Desire (Genshin Impact) [Kinkymation] - 2 Elemental Desire - The Thrill Of The Chase - PDF Room.pdf",
-    "cover": "covers/elemental_desire_genshin_impact_kinkymation_2_elemental_desire_the_thrill_of_the_chase_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/elemental_desire_genshin_impact_kinkymation_2_elemental_desire_the_thrill_of_the_chase_pdf_room.jpg",
     "base_title": "Elemental Desire (Genshin Impact)",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -1235,11 +1273,12 @@
       "fantasy",
       "dungeon",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Elemental Desire (Genshin Impact) [Kinkymation] - 2 Elemental Desire - The Thrill Of The Chase - PDF Room.pdf"
   },
   {
     "file": "Elemental Desire (Genshin Impact) [Kinkymation] - 3 Elemental Desire - A Partners Trust - PDF Room.pdf",
-    "cover": "covers/elemental_desire_genshin_impact_kinkymation_3_elemental_desire_a_partners_trust_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/elemental_desire_genshin_impact_kinkymation_3_elemental_desire_a_partners_trust_pdf_room.jpg",
     "base_title": "Elemental Desire (Genshin Impact)",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -1267,11 +1306,12 @@
     "setting": [
       "fantasy",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Elemental Desire (Genshin Impact) [Kinkymation] - 3 Elemental Desire - A Partners Trust - PDF Room.pdf"
   },
   {
     "file": "Elphi! [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/elphi_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/elphi_kinkymation_pdf_room.jpg",
     "base_title": "Elphi!",
     "franchise": null,
     "artist": "Kinkymation",
@@ -1298,11 +1338,12 @@
       "fantasy",
       "outdoors",
       "dungeon"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Elphi! [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Entering Cuddle Mode (Genshin Impact) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/entering_cuddle_mode_genshin_impact_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/entering_cuddle_mode_genshin_impact_kinkymation_pdf_room.jpg",
     "base_title": "Entering Cuddle Mode",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -1330,12 +1371,13 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Entering Cuddle Mode (Genshin Impact) [Kinkymation] - PDF Room.pdf"
   },
   {
-    "file": "Feline ChÃƒÂ¢teau [Kinkymation] - 1 Feline Chateau - PDF Room.pdf",
-    "cover": "covers/feline_chateau_kinkymation_1_feline_chateau_pdf_room.jpg",
-    "base_title": "Feline ChÃƒÂ¢teau",
+    "file": "Feline ChÃƒÆ’Ã‚Â¢teau [Kinkymation] - 1 Feline Chateau - PDF Room.pdf",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/feline_chateau_kinkymation_1_feline_chateau_pdf_room.jpg",
+    "base_title": "Feline ChÃƒÆ’Ã‚Â¢teau",
     "franchise": null,
     "artist": "Kinkymation",
     "volume": 1.0,
@@ -1358,12 +1400,13 @@
     "setting": [
       "home",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Feline ChÃƒÆ’Ã‚Â¢teau [Kinkymation] - 1 Feline Chateau - PDF Room.pdf"
   },
   {
-    "file": "Feline ChÃƒÂ¢teau [Kinkymation] - 2 Feline Chateau - PDF Room.pdf",
-    "cover": "covers/feline_chateau_kinkymation_2_feline_chateau_pdf_room.jpg",
-    "base_title": "Feline ChÃƒÂ¢teau",
+    "file": "Feline ChÃƒÆ’Ã‚Â¢teau [Kinkymation] - 2 Feline Chateau - PDF Room.pdf",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/feline_chateau_kinkymation_2_feline_chateau_pdf_room.jpg",
+    "base_title": "Feline ChÃƒÆ’Ã‚Â¢teau",
     "franchise": null,
     "artist": "Kinkymation",
     "volume": 2.0,
@@ -1390,12 +1433,13 @@
       "fantasy",
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Feline ChÃƒÆ’Ã‚Â¢teau [Kinkymation] - 2 Feline Chateau - PDF Room.pdf"
   },
   {
-    "file": "Feline ChÃƒÂ¢teau [Kinkymation] - 3 Feline Chateau - PDF Room.pdf",
-    "cover": "covers/feline_chateau_kinkymation_3_feline_chateau_pdf_room.jpg",
-    "base_title": "Feline ChÃƒÂ¢teau",
+    "file": "Feline ChÃƒÆ’Ã‚Â¢teau [Kinkymation] - 3 Feline Chateau - PDF Room.pdf",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/feline_chateau_kinkymation_3_feline_chateau_pdf_room.jpg",
+    "base_title": "Feline ChÃƒÆ’Ã‚Â¢teau",
     "franchise": null,
     "artist": "Kinkymation",
     "volume": 3.0,
@@ -1422,12 +1466,13 @@
     "setting": [
       "home",
       "outdoors"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Feline ChÃƒÆ’Ã‚Â¢teau [Kinkymation] - 3 Feline Chateau - PDF Room.pdf"
   },
   {
-    "file": "Feline ChÃƒÂ¢teau [Kinkymation] - 4 Feline Chateau - EXTRA - PDF Room.pdf",
-    "cover": "covers/feline_chateau_kinkymation_4_feline_chateau_extra_pdf_room.jpg",
-    "base_title": "Feline ChÃƒÂ¢teau",
+    "file": "Feline ChÃƒÆ’Ã‚Â¢teau [Kinkymation] - 4 Feline Chateau - EXTRA - PDF Room.pdf",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/feline_chateau_kinkymation_4_feline_chateau_extra_pdf_room.jpg",
+    "base_title": "Feline ChÃƒÆ’Ã‚Â¢teau",
     "franchise": null,
     "artist": "Kinkymation",
     "volume": 4.0,
@@ -1452,12 +1497,13 @@
     "setting": [
       "home",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Feline ChÃƒÆ’Ã‚Â¢teau [Kinkymation] - 4 Feline Chateau - EXTRA - PDF Room.pdf"
   },
   {
-    "file": "Feline ChÃƒÂ¢teau [Kinkymation] - 5 When Emmys Away - PDF Room.pdf",
-    "cover": "covers/feline_chateau_kinkymation_5_when_emmys_away_pdf_room.jpg",
-    "base_title": "Feline ChÃƒÂ¢teau",
+    "file": "Feline ChÃƒÆ’Ã‚Â¢teau [Kinkymation] - 5 When Emmys Away - PDF Room.pdf",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/feline_chateau_kinkymation_5_when_emmys_away_pdf_room.jpg",
+    "base_title": "Feline ChÃƒÆ’Ã‚Â¢teau",
     "franchise": null,
     "artist": "Kinkymation",
     "volume": 5.0,
@@ -1483,11 +1529,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Feline ChÃƒÆ’Ã‚Â¢teau [Kinkymation] - 5 When Emmys Away - PDF Room.pdf"
   },
   {
     "file": "Filled with Hope (Digimon Adventure) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/filled_with_hope_digimon_adventure_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/filled_with_hope_digimon_adventure_kinkymation_pdf_room.jpg",
     "base_title": "Filled with Hope",
     "franchise": "Digimon Adventure",
     "artist": "Kinkymation",
@@ -1514,11 +1561,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Filled with Hope (Digimon Adventure) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Fire Emblem - Three Houses Comics Set - PDF Room.pdf",
-    "cover": "covers/fire_emblem_three_houses_comics_set_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/fire_emblem_three_houses_comics_set_pdf_room.jpg",
     "base_title": "Fire Emblem - Three Houses Comics Set",
     "franchise": "Fire Emblem",
     "artist": "Unknown",
@@ -1550,11 +1598,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Fire Emblem - Three Houses Comics Set - PDF Room.pdf"
   },
   {
     "file": "Fools Paradise (Final Fantasy VII) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/fools_paradise_final_fantasy_vii_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/fools_paradise_final_fantasy_vii_kinkymation_pdf_room.jpg",
     "base_title": "Fools Paradise",
     "franchise": "Final Fantasy",
     "artist": "Kinkymation",
@@ -1583,11 +1632,12 @@
     "setting": [
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Fools Paradise (Final Fantasy VII) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Garlean Trouble (Final Fantasy XIV) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/garlean_trouble_final_fantasy_xiv_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/garlean_trouble_final_fantasy_xiv_kinkymation_pdf_room.jpg",
     "base_title": "Garlean Trouble",
     "franchise": "Final Fantasy",
     "artist": "Kinkymation",
@@ -1614,13 +1664,14 @@
     "setting": [
       "fantasy",
       "dungeon"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Garlean Trouble (Final Fantasy XIV) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Intimate Emerald [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/intimate_emerald_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/intimate_emerald_kinkymation_pdf_room.jpg",
     "base_title": "Intimate Emerald",
-    "franchise": "Pokémon",
+    "franchise": "PokÃ©mon",
     "artist": "Kinkymation",
     "volume": null,
     "volume_subtitle": null,
@@ -1647,11 +1698,12 @@
     "setting": [
       "fantasy",
       "outdoors"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Intimate Emerald [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "JokerFutabaHaru Comic (Persona 5) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/jokerfutabaharu_comic_persona_5_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/jokerfutabaharu_comic_persona_5_kinkymation_pdf_room.jpg",
     "base_title": "JokerFutabaHaru Comic",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -1681,11 +1733,12 @@
     ],
     "setting": [
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/JokerFutabaHaru Comic (Persona 5) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Jokers Test of Endurance (Persona 5) [Kinkymation] - 2 - PDF Room.pdf",
-    "cover": "covers/jokers_test_of_endurance_persona_5_kinkymation_2_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/jokers_test_of_endurance_persona_5_kinkymation_2_pdf_room.jpg",
     "base_title": "Jokers Test of Endurance (Persona 5)",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -1718,11 +1771,12 @@
     "setting": [
       "school",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Jokers Test of Endurance (Persona 5) [Kinkymation] - 2 - PDF Room.pdf"
   },
   {
     "file": "Jokers Test of Endurance (Persona 5) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/jokers_test_of_endurance_persona_5_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/jokers_test_of_endurance_persona_5_kinkymation_pdf_room.jpg",
     "base_title": "Jokers Test of Endurance",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -1758,11 +1812,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Jokers Test of Endurance (Persona 5) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Junkos Despair Game (Danganronpa) [Kinkymation] - 2 Makotos Hopeful Romance - PDF Room.pdf",
-    "cover": "covers/junkos_despair_game_danganronpa_kinkymation_2_makotos_hopeful_romance_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/junkos_despair_game_danganronpa_kinkymation_2_makotos_hopeful_romance_pdf_room.jpg",
     "base_title": "Junkos Despair Game",
     "franchise": "Danganronpa",
     "artist": "Kinkymation",
@@ -1788,11 +1843,12 @@
     ],
     "setting": [
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Junkos Despair Game (Danganronpa) [Kinkymation] - 2 Makotos Hopeful Romance - PDF Room.pdf"
   },
   {
     "file": "Junkos Despair Game (Danganronpa) [Kinkymation] - 25 Danganronpa Bad End - PDF Room.pdf",
-    "cover": "covers/junkos_despair_game_danganronpa_kinkymation_25_danganronpa_bad_end_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/junkos_despair_game_danganronpa_kinkymation_25_danganronpa_bad_end_pdf_room.jpg",
     "base_title": "Junkos Despair Game",
     "franchise": "Danganronpa",
     "artist": "Kinkymation",
@@ -1819,11 +1875,12 @@
     ],
     "setting": [
       "dungeon"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Junkos Despair Game (Danganronpa) [Kinkymation] - 25 Danganronpa Bad End - PDF Room.pdf"
   },
   {
     "file": "Junkos Despair Game (Danganronpa) [Kinkymation] - 3 Junkos Love Spiral - PDF Room.pdf",
-    "cover": "covers/junkos_despair_game_danganronpa_kinkymation_3_junkos_love_spiral_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/junkos_despair_game_danganronpa_kinkymation_3_junkos_love_spiral_pdf_room.jpg",
     "base_title": "Junkos Despair Game",
     "franchise": "Danganronpa",
     "artist": "Kinkymation",
@@ -1852,11 +1909,12 @@
     ],
     "setting": [
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Junkos Despair Game (Danganronpa) [Kinkymation] - 3 Junkos Love Spiral - PDF Room.pdf"
   },
   {
     "file": "Junkos Despair Game (Danganronpa) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/junkos_despair_game_danganronpa_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/junkos_despair_game_danganronpa_kinkymation_pdf_room.jpg",
     "base_title": "Junkos Despair Game",
     "franchise": "Danganronpa",
     "artist": "Kinkymation",
@@ -1889,11 +1947,12 @@
     "setting": [
       "school",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Junkos Despair Game (Danganronpa) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Konosubass (Kono Subarashii Sekai ni Shukufuku wo!) [Kinkymation] - 1 Konosubass - Aqua - PDF Room.pdf",
-    "cover": "covers/konosubass_kono_subarashii_sekai_ni_shukufuku_wo_kinkymation_1_konosubass_aqua_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/konosubass_kono_subarashii_sekai_ni_shukufuku_wo_kinkymation_1_konosubass_aqua_pdf_room.jpg",
     "base_title": "Konosubass (Kono Subarashii Sekai ni Shukufuku wo!)",
     "franchise": "Kono Subarashii Sekai ni Shukufuku wo!",
     "artist": "Kinkymation",
@@ -1921,11 +1980,12 @@
       "fantasy",
       "dungeon",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Konosubass (Kono Subarashii Sekai ni Shukufuku wo!) [Kinkymation] - 1 Konosubass - Aqua - PDF Room.pdf"
   },
   {
     "file": "Konosubass (Kono Subarashii Sekai ni Shukufuku wo!) [Kinkymation] - 2 Konosubass - Darkness - PDF Room.pdf",
-    "cover": "covers/konosubass_kono_subarashii_sekai_ni_shukufuku_wo_kinkymation_2_konosubass_darkness_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/konosubass_kono_subarashii_sekai_ni_shukufuku_wo_kinkymation_2_konosubass_darkness_pdf_room.jpg",
     "base_title": "Konosubass (Kono Subarashii Sekai ni Shukufuku wo!)",
     "franchise": "Kono Subarashii Sekai ni Shukufuku wo!",
     "artist": "Kinkymation",
@@ -1953,11 +2013,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Konosubass (Kono Subarashii Sekai ni Shukufuku wo!) [Kinkymation] - 2 Konosubass - Darkness - PDF Room.pdf"
   },
   {
     "file": "Konosubass (Kono Subarashii Sekai ni Shukufuku wo!) [Kinkymation] - 3 Konosubass - Megumin - PDF Room.pdf",
-    "cover": "covers/konosubass_kono_subarashii_sekai_ni_shukufuku_wo_kinkymation_3_konosubass_megumin_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/konosubass_kono_subarashii_sekai_ni_shukufuku_wo_kinkymation_3_konosubass_megumin_pdf_room.jpg",
     "base_title": "Konosubass (Kono Subarashii Sekai ni Shukufuku wo!)",
     "franchise": "Kono Subarashii Sekai ni Shukufuku wo!",
     "artist": "Kinkymation",
@@ -1984,11 +2045,12 @@
     "setting": [
       "fantasy",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Konosubass (Kono Subarashii Sekai ni Shukufuku wo!) [Kinkymation] - 3 Konosubass - Megumin - PDF Room.pdf"
   },
   {
     "file": "Lascivious Venom (Monster Girl Encyclopedia) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/lascivious_venom_monster_girl_encyclopedia_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/lascivious_venom_monster_girl_encyclopedia_kinkymation_pdf_room.jpg",
     "base_title": "Lascivious Venom",
     "franchise": "Monster Girl Encyclopedia",
     "artist": "Kinkymation",
@@ -2015,11 +2077,12 @@
       "fantasy",
       "dungeon",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Lascivious Venom (Monster Girl Encyclopedia) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Love Navi (Persona) [Kinkymation] - 1 Love Navi - Ann - PDF Room.pdf",
-    "cover": "covers/love_navi_persona_kinkymation_1_love_navi_ann_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/love_navi_persona_kinkymation_1_love_navi_ann_pdf_room.jpg",
     "base_title": "Love Navi (Persona)",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -2051,11 +2114,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Love Navi (Persona) [Kinkymation] - 1 Love Navi - Ann - PDF Room.pdf"
   },
   {
     "file": "Love Navi (Persona) [Kinkymation] - 2 Love Navi - Makoto - PDF Room.pdf",
-    "cover": "covers/love_navi_persona_kinkymation_2_love_navi_makoto_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/love_navi_persona_kinkymation_2_love_navi_makoto_pdf_room.jpg",
     "base_title": "Love Navi (Persona)",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -2083,11 +2147,12 @@
     "setting": [
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Love Navi (Persona) [Kinkymation] - 2 Love Navi - Makoto - PDF Room.pdf"
   },
   {
     "file": "Love Navi (Persona) [Kinkymation] - 3 Love Navi - Haru - PDF Room.pdf",
-    "cover": "covers/love_navi_persona_kinkymation_3_love_navi_haru_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/love_navi_persona_kinkymation_3_love_navi_haru_pdf_room.jpg",
     "base_title": "Love Navi (Persona)",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -2116,11 +2181,12 @@
     "setting": [
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Love Navi (Persona) [Kinkymation] - 3 Love Navi - Haru - PDF Room.pdf"
   },
   {
     "file": "Love Navi (Persona) [Kinkymation] - 4 Love Navi - Sumi - PDF Room.pdf",
-    "cover": "covers/love_navi_persona_kinkymation_4_love_navi_sumi_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/love_navi_persona_kinkymation_4_love_navi_sumi_pdf_room.jpg",
     "base_title": "Love Navi (Persona)",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -2148,11 +2214,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Love Navi (Persona) [Kinkymation] - 4 Love Navi - Sumi - PDF Room.pdf"
   },
   {
     "file": "Love Sampler (Fire Emblem - Three Houses) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/love_sampler_fire_emblem_three_houses_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/love_sampler_fire_emblem_three_houses_kinkymation_pdf_room.jpg",
     "base_title": "Love Sampler",
     "franchise": "Fire Emblem",
     "artist": "Kinkymation",
@@ -2180,11 +2247,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Love Sampler (Fire Emblem - Three Houses) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Love Sampler Ei and Yae (Genshin Impact) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/love_sampler_ei_and_yae_genshin_impact_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/love_sampler_ei_and_yae_genshin_impact_kinkymation_pdf_room.jpg",
     "base_title": "Love Sampler Ei and Yae",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -2213,11 +2281,12 @@
       "bedroom",
       "home",
       "fantasy"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Love Sampler Ei and Yae (Genshin Impact) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Mau is Restless [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/mau_is_restless_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/mau_is_restless_kinkymation_pdf_room.jpg",
     "base_title": "Mau is Restless",
     "franchise": null,
     "artist": "Kinkymation",
@@ -2242,11 +2311,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Mau is Restless [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Mission Callie (Splatoon) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/mission_callie_splatoon_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/mission_callie_splatoon_kinkymation_pdf_room.jpg",
     "base_title": "Mission Callie",
     "franchise": "Splatoon",
     "artist": "Kinkymation",
@@ -2274,11 +2344,12 @@
     "setting": [
       "outdoors",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Mission Callie (Splatoon) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Morning Cat [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/morning_cat_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/morning_cat_kinkymation_pdf_room.jpg",
     "base_title": "Morning Cat",
     "franchise": null,
     "artist": "Kinkymation",
@@ -2304,11 +2375,12 @@
     "setting": [
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Morning Cat [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "No Holds Barred (Fire Emblem - Three Houses) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/no_holds_barred_fire_emblem_three_houses_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/no_holds_barred_fire_emblem_three_houses_kinkymation_pdf_room.jpg",
     "base_title": "No Holds Barred",
     "franchise": "Fire Emblem",
     "artist": "Kinkymation",
@@ -2336,11 +2408,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/No Holds Barred (Fire Emblem - Three Houses) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Of Schemes and Mora (Genshin Impact) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/of_schemes_and_mora_genshin_impact_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/of_schemes_and_mora_genshin_impact_kinkymation_pdf_room.jpg",
     "base_title": "Of Schemes and Mora",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -2368,11 +2441,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Of Schemes and Mora (Genshin Impact) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Palutena and Pit (Kid Icarus) [Kinkymation] - 2 - PDF Room.pdf",
-    "cover": "covers/palutena_and_pit_kid_icarus_kinkymation_2_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/palutena_and_pit_kid_icarus_kinkymation_2_pdf_room.jpg",
     "base_title": "Palutena and Pit (Kid Icarus)",
     "franchise": "Kid Icarus",
     "artist": "Kinkymation",
@@ -2398,11 +2472,12 @@
     "setting": [
       "fantasy",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Palutena and Pit (Kid Icarus) [Kinkymation] - 2 - PDF Room.pdf"
   },
   {
     "file": "Palutena and Pit (Kid Icarus) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/palutena_and_pit_kid_icarus_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/palutena_and_pit_kid_icarus_kinkymation_pdf_room.jpg",
     "base_title": "Palutena and Pit",
     "franchise": "Kid Icarus",
     "artist": "Kinkymation",
@@ -2429,13 +2504,14 @@
     "setting": [
       "fantasy",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Palutena and Pit (Kid Icarus) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Pokemusu Dex (Pokemon) [Kinkymation] - 2 - PDF Room.pdf",
-    "cover": "covers/pokemusu_dex_pokemon_kinkymation_2_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/pokemusu_dex_pokemon_kinkymation_2_pdf_room.jpg",
     "base_title": "Pokemusu Dex (Pokemon)",
-    "franchise": "Pokémon",
+    "franchise": "PokÃ©mon",
     "artist": "Kinkymation",
     "volume": 2.0,
     "volume_subtitle": null,
@@ -2468,13 +2544,14 @@
       "outdoors",
       "dungeon",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Pokemusu Dex (Pokemon) [Kinkymation] - 2 - PDF Room.pdf"
   },
   {
     "file": "Pokemusu Dex (Pokemon) [Kinkymation] - 4 - PDF Room.pdf",
-    "cover": "covers/pokemusu_dex_pokemon_kinkymation_4_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/pokemusu_dex_pokemon_kinkymation_4_pdf_room.jpg",
     "base_title": "Pokemusu Dex (Pokemon)",
-    "franchise": "Pokémon",
+    "franchise": "PokÃ©mon",
     "artist": "Kinkymation",
     "volume": 4.0,
     "volume_subtitle": null,
@@ -2504,13 +2581,14 @@
       "fantasy",
       "outdoors",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Pokemusu Dex (Pokemon) [Kinkymation] - 4 - PDF Room.pdf"
   },
   {
     "file": "Pokemusu Dex (Pokemon) [Kinkymation] - 5 - PDF Room.pdf",
-    "cover": "covers/pokemusu_dex_pokemon_kinkymation_5_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/pokemusu_dex_pokemon_kinkymation_5_pdf_room.jpg",
     "base_title": "Pokemusu Dex (Pokemon)",
-    "franchise": "Pokémon",
+    "franchise": "PokÃ©mon",
     "artist": "Kinkymation",
     "volume": 5.0,
     "volume_subtitle": null,
@@ -2535,13 +2613,14 @@
       "fantasy",
       "outdoors",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Pokemusu Dex (Pokemon) [Kinkymation] - 5 - PDF Room.pdf"
   },
   {
     "file": "Pokemusu Dex (Pokemon) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/pokemusu_dex_pokemon_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/pokemusu_dex_pokemon_kinkymation_pdf_room.jpg",
     "base_title": "Pokemusu Dex",
-    "franchise": "Pokémon",
+    "franchise": "PokÃ©mon",
     "artist": "Kinkymation",
     "volume": null,
     "volume_subtitle": null,
@@ -2574,11 +2653,12 @@
       "outdoors",
       "dungeon",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Pokemusu Dex (Pokemon) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Pretty Poison (Kid Icarus) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/pretty_poison_kid_icarus_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/pretty_poison_kid_icarus_kinkymation_pdf_room.jpg",
     "base_title": "Pretty Poison",
     "franchise": "Kid Icarus",
     "artist": "Kinkymation",
@@ -2606,11 +2686,12 @@
       "fantasy",
       "supernatural",
       "outdoors"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Pretty Poison (Kid Icarus) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Princessess Domain (The Legend of Zelda) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/princessess_domain_the_legend_of_zelda_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/princessess_domain_the_legend_of_zelda_kinkymation_pdf_room.jpg",
     "base_title": "Princessess Domain",
     "franchise": "The Legend of Zelda",
     "artist": "Kinkymation",
@@ -2641,11 +2722,12 @@
     "setting": [
       "fantasy",
       "outdoors"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Princessess Domain (The Legend of Zelda) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Private Cookoff (Food Wars! Shokugeki no Soma) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/private_cookoff_food_wars_shokugeki_no_soma_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/private_cookoff_food_wars_shokugeki_no_soma_kinkymation_pdf_room.jpg",
     "base_title": "Private Cookoff",
     "franchise": "Food Wars! Shokugeki no Soma",
     "artist": "Kinkymation",
@@ -2673,11 +2755,12 @@
     ],
     "setting": [
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Private Cookoff (Food Wars! Shokugeki no Soma) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Private Tutoring [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/private_tutoring_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/private_tutoring_kinkymation_pdf_room.jpg",
     "base_title": "Private Tutoring",
     "franchise": null,
     "artist": "Kinkymation",
@@ -2702,11 +2785,12 @@
     "setting": [
       "school",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Private Tutoring [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Purrfect Position [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/purrfect_position_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/purrfect_position_kinkymation_pdf_room.jpg",
     "base_title": "Purrfect Position",
     "franchise": null,
     "artist": "Kinkymation",
@@ -2733,11 +2817,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Purrfect Position [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Robins Awakening - Lucina (Fire Emblem) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/robins_awakening_lucina_fire_emblem_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/robins_awakening_lucina_fire_emblem_kinkymation_pdf_room.jpg",
     "base_title": "Robins Awakening - Lucina",
     "franchise": "Fire Emblem",
     "artist": "Kinkymation",
@@ -2764,11 +2849,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Robins Awakening - Lucina (Fire Emblem) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "S Lysithea (Fire Emblem Three Houses) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/s_lysithea_fire_emblem_three_houses_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/s_lysithea_fire_emblem_three_houses_kinkymation_pdf_room.jpg",
     "base_title": "S Lysithea",
     "franchise": "Fire Emblem",
     "artist": "Kinkymation",
@@ -2796,11 +2882,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/S Lysithea (Fire Emblem Three Houses) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Samus and Palutenas Bedroom Smash! [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/samus_and_palutenas_bedroom_smash_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/samus_and_palutenas_bedroom_smash_kinkymation_pdf_room.jpg",
     "base_title": "Samus and Palutenas Bedroom Smash!",
     "franchise": "Super Smash Bros.",
     "artist": "Kinkymation",
@@ -2829,11 +2916,12 @@
     "setting": [
       "bedroom",
       "fantasy"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Samus and Palutenas Bedroom Smash! [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Sanguis Virginis (Resident Evil) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/sanguis_virginis_resident_evil_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/sanguis_virginis_resident_evil_kinkymation_pdf_room.jpg",
     "base_title": "Sanguis Virginis",
     "franchise": "Resident Evil",
     "artist": "Kinkymation",
@@ -2859,11 +2947,12 @@
     "setting": [
       "bedroom",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Sanguis Virginis (Resident Evil) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Shipwife Shimakaze (Kantai Collection -KanColle-) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/shipwife_shimakaze_kantai_collection_kancolle_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/shipwife_shimakaze_kantai_collection_kancolle_kinkymation_pdf_room.jpg",
     "base_title": "Shipwife Shimakaze",
     "franchise": "Kantai Collection -KanColle-",
     "artist": "Kinkymation",
@@ -2888,11 +2977,12 @@
     ],
     "setting": [
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Shipwife Shimakaze (Kantai Collection -KanColle-) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Sword Maidens Request (Goblin Slayer) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/sword_maidens_request_goblin_slayer_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/sword_maidens_request_goblin_slayer_kinkymation_pdf_room.jpg",
     "base_title": "Sword Maidens Request",
     "franchise": "Goblin Slayer",
     "artist": "Kinkymation",
@@ -2918,11 +3008,12 @@
     "setting": [
       "fantasy",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Sword Maidens Request (Goblin Slayer) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Teapot Tales (Genshin Impact) [Kinkymation] - Teapot Tales Vol1 - PDF Room.pdf",
-    "cover": "covers/teapot_tales_genshin_impact_kinkymation_teapot_tales_vol1_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/teapot_tales_genshin_impact_kinkymation_teapot_tales_vol1_pdf_room.jpg",
     "base_title": "Teapot Tales (Genshin Impact) - Teapot Tales Vol1",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -2959,11 +3050,12 @@
       "fantasy",
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Teapot Tales (Genshin Impact) [Kinkymation] - Teapot Tales Vol1 - PDF Room.pdf"
   },
   {
     "file": "The Nameless Trio (Honkai Star Rail) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/the_nameless_trio_honkai_star_rail_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/the_nameless_trio_honkai_star_rail_kinkymation_pdf_room.jpg",
     "base_title": "The Nameless Trio",
     "franchise": "Honkai Star Rail",
     "artist": "Kinkymation",
@@ -2994,11 +3086,12 @@
     "setting": [
       "sci_fi",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/The Nameless Trio (Honkai Star Rail) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "The Pink Thing [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/the_pink_thing_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/the_pink_thing_kinkymation_pdf_room.jpg",
     "base_title": "The Pink Thing",
     "franchise": null,
     "artist": "Kinkymation",
@@ -3026,11 +3119,12 @@
       "bedroom",
       "supernatural",
       "sci_fi"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/The Pink Thing [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "The Travelers Guide to Teyvats Heart - Amber (Genshin Impact) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/the_travelers_guide_to_teyvats_heart_amber_genshin_impact_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/the_travelers_guide_to_teyvats_heart_amber_genshin_impact_kinkymation_pdf_room.jpg",
     "base_title": "The Travelers Guide to Teyvats Heart - Amber",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -3058,11 +3152,12 @@
       "fantasy",
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/The Travelers Guide to Teyvats Heart - Amber (Genshin Impact) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "The Travelers Guide to Teyvats Heart - Lisa (Genshin Impact) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/the_travelers_guide_to_teyvats_heart_lisa_genshin_impact_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/the_travelers_guide_to_teyvats_heart_lisa_genshin_impact_kinkymation_pdf_room.jpg",
     "base_title": "The Travelers Guide to Teyvats Heart - Lisa",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -3090,11 +3185,12 @@
       "fantasy",
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/The Travelers Guide to Teyvats Heart - Lisa (Genshin Impact) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "This is what girlfriends do right (Persona 5) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/this_is_what_girlfriends_do_right_persona_5_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/this_is_what_girlfriends_do_right_persona_5_kinkymation_pdf_room.jpg",
     "base_title": "This is what girlfriends do right",
     "franchise": "Persona",
     "artist": "Kinkymation",
@@ -3122,11 +3218,12 @@
     "setting": [
       "home",
       "bedroom"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/This is what girlfriends do right (Persona 5) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Umbral Bliss (The Legend of Zelda) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/umbral_bliss_the_legend_of_zelda_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/umbral_bliss_the_legend_of_zelda_kinkymation_pdf_room.jpg",
     "base_title": "Umbral Bliss",
     "franchise": "The Legend of Zelda",
     "artist": "Kinkymation",
@@ -3152,11 +3249,12 @@
     "setting": [
       "fantasy",
       "supernatural"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Umbral Bliss (The Legend of Zelda) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Unpurify Me! (Tales of Symphonia) [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/unpurify_me_tales_of_symphonia_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/unpurify_me_tales_of_symphonia_kinkymation_pdf_room.jpg",
     "base_title": "Unpurify Me!",
     "franchise": "Tales of Symphonia",
     "artist": "Kinkymation",
@@ -3188,11 +3286,12 @@
       "fantasy",
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Unpurify Me! (Tales of Symphonia) [Kinkymation] - PDF Room.pdf"
   },
   {
     "file": "Written in the Stars [Kinkymation] - PDF Room.pdf",
-    "cover": "covers/written_in_the_stars_kinkymation_pdf_room.jpg",
+    "cover": "https://pub-519d670b800e4669a001260983688d43.r2.dev/covers/written_in_the_stars_kinkymation_pdf_room.jpg",
     "base_title": "Written in the Stars",
     "franchise": "Genshin Impact",
     "artist": "Kinkymation",
@@ -3220,6 +3319,7 @@
       "fantasy",
       "bedroom",
       "home"
-    ]
+    ],
+    "file_url": "https://pub-519d670b800e4669a001260983688d43.r2.dev/Written in the Stars [Kinkymation] - PDF Room.pdf"
   }
 ]
