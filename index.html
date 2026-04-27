@@ -59,11 +59,11 @@
   .count-badge { background: var(--pink-light); color: var(--pink-deep); font-size: .72rem; font-weight: 700; padding: 2px 8px; border-radius: 99px; }
 
   /* Layout */
-  .layout { display: flex; position: relative; z-index: 1; min-height: calc(100vh - 64px); overflow: clip; }
+  .layout { display: flex; position: relative; z-index: 1; min-height: calc(100vh - 64px); align-items: flex-start; }
   .hamburger { display: none; }
 
   /* Sidebar */
-  aside { width: var(--sidebar-w); min-width: var(--sidebar-w); height: calc(100vh - 64px); position: sticky; top: 64px; align-self: flex-start; background: var(--white); border-right: 2px solid var(--pink-light); padding: 20px 16px; overflow-y: auto; flex-shrink: 0; z-index: 1; }
+  aside { width: var(--sidebar-w); min-width: var(--sidebar-w); height: calc(100vh - 64px); position: sticky; top: 64px; background: var(--white); border-right: 2px solid var(--pink-light); padding: 20px 16px; overflow-y: auto; flex-shrink: 0; }
   aside::-webkit-scrollbar { width: 4px; }
   aside::-webkit-scrollbar-thumb { background: var(--pink-light); border-radius: 2px; }
   .sidebar-section { margin-bottom: 22px; }
