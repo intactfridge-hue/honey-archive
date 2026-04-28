@@ -654,13 +654,14 @@ async function renderPage(num) {
   document.getElementById('prev-btn').disabled = num <= 1;
   document.getElementById('next-btn').disabled = num >= pdfDoc.numPages;
 
+  const dpr      = window.devicePixelRatio || 1;
   const page     = await pdfDoc.getPage(num);
   const body     = document.getElementById('reader-body');
   const vp1      = page.getViewport({scale: 1});
   const scaleW   = (body.clientWidth  - 32) / vp1.width;
   const scaleH   = (body.clientHeight - 32) / vp1.height;
-  const scale    = Math.min(scaleW, scaleH, 3);
-  const viewport = page.getViewport({scale});
+  const cssScale = Math.min(scaleW, scaleH);
+  const viewport = page.getViewport({scale: cssScale * dpr});
 
   let canvas = document.getElementById('pdf-canvas');
   if (!canvas) {
@@ -669,8 +670,12 @@ async function renderPage(num) {
     body.innerHTML = '';
     body.appendChild(canvas);
   }
+  // Canvas pixel size = display size × DPR (sharp on retina)
   canvas.width  = viewport.width;
   canvas.height = viewport.height;
+  // CSS size = what the user sees (normal size)
+  canvas.style.width  = Math.floor(vp1.width  * cssScale) + 'px';
+  canvas.style.height = Math.floor(vp1.height * cssScale) + 'px';
   canvas.style.maxWidth  = '100%';
   canvas.style.maxHeight = '100%';
 
@@ -681,18 +686,23 @@ async function renderPage(num) {
 
 async function renderScrollMode() {
   if (!pdfDoc) return;
+  const dpr  = window.devicePixelRatio || 1;
   const body = document.getElementById('reader-body');
   body.innerHTML = '<div class="scroll-container" id="scroll-cont"></div>';
   const cont = document.getElementById('scroll-cont');
+  const maxCssWidth = Math.min(cont.clientWidth - 32, 860);
+
   for (let i = 1; i <= pdfDoc.numPages; i++) {
     const page     = await pdfDoc.getPage(i);
-    const vp1      = page.getViewport({scale:1});
-    const scale    = Math.min((cont.clientWidth-32)/vp1.width, 2);
-    const viewport = page.getViewport({scale});
+    const vp1      = page.getViewport({scale: 1});
+    const cssScale = Math.min(maxCssWidth / vp1.width, 2);
+    const viewport = page.getViewport({scale: cssScale * dpr});
     const canvas   = document.createElement('canvas');
     canvas.className = 'scroll-page-canvas';
-    canvas.width  = viewport.width;
-    canvas.height = viewport.height;
+    canvas.width   = viewport.width;
+    canvas.height  = viewport.height;
+    canvas.style.width  = Math.floor(vp1.width  * cssScale) + 'px';
+    canvas.style.height = Math.floor(vp1.height * cssScale) + 'px';
     cont.appendChild(canvas);
     page.render({canvasContext: canvas.getContext('2d'), viewport});
   }
